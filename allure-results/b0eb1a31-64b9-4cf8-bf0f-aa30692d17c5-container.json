@@ -1,0 +1,1 @@
+{"uuid":"b0eb1a31-64b9-4cf8-bf0f-aa30692d17c5","name":"GetLocationTest","children":["7fb847fd-0567-421c-a6cf-0e59454aaba2"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1703951031733,"stop":1703951031735}],"afters":[],"start":1703951031729,"stop":1703951032373}

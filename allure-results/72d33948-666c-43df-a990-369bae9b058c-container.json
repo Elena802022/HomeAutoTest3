@@ -1,0 +1,1 @@
+{"uuid":"72d33948-666c-43df-a990-369bae9b058c","name":"GetWeatherFiveDayTest","children":["f3f5127b-448d-48f5-b7ea-5259748ebe0f"],"befores":[{"name":"initTest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1703951032388,"stop":1703951032396}],"afters":[],"start":1703951032386,"stop":1703951033237}
